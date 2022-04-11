@@ -1,0 +1,7 @@
+---
+servers:
+    hosts:
+        test01:
+            ansible_host: 10.177.129.190
+        test02:
+            ansible_host: 10.177.129.189
